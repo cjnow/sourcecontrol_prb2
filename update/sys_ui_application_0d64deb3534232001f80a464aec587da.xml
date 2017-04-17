@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>PRB916363_test2</name>
+        <order/>
+        <roles>x_prb916363_test2.user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>top_admin</sys_created_by>
+        <sys_created_on>2017-04-17 18:33:49</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>0d64deb3534232001f80a464aec587da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRB916363_test2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PRB916363_test2" source="x_prb916363_test2">b064deb3534232001f80a464aec5877b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PRB916363_test2">b064deb3534232001f80a464aec5877b</sys_scope>
+        <sys_update_name>sys_ui_application_0d64deb3534232001f80a464aec587da</sys_update_name>
+        <sys_updated_by>top_admin</sys_updated_by>
+        <sys_updated_on>2017-04-17 18:33:49</sys_updated_on>
+    </sys_ui_application>
+</record_update>

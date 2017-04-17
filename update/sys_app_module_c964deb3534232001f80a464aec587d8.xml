@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="774190f01f1310005a3637b8ec8b70ef" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="PRB916363_test2">7c649eb3534232001f80a464aec587f3</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>PRB916363_test2 Table</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_prb916363_test2_table</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_prb916363_test2.user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>top_admin</sys_created_by>
+        <sys_created_on>2017-04-17 18:33:49</sys_created_on>
+        <sys_domain>774190f01f1310005a3637b8ec8b70ef</sys_domain>
+        <sys_domain_path>!!!/</sys_domain_path>
+        <sys_id>c964deb3534232001f80a464aec587d8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRB916363_test2 Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PRB916363_test2" source="x_prb916363_test2">b064deb3534232001f80a464aec5877b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PRB916363_test2">b064deb3534232001f80a464aec5877b</sys_scope>
+        <sys_update_name>sys_app_module_c964deb3534232001f80a464aec587d8</sys_update_name>
+        <sys_updated_by>top_admin</sys_updated_by>
+        <sys_updated_on>2017-04-17 18:33:49</sys_updated_on>
+        <timeline_page/>
+        <title>PRB916363_test2 Table</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
